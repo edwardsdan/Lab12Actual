@@ -1,0 +1,7 @@
+C:\Users\TLO\Documents\C# bootcamp WORK\Lab12\Lab12\bin\Debug\Lab12.exe.config
+C:\Users\TLO\Documents\C# bootcamp WORK\Lab12\Lab12\bin\Debug\Lab12.exe
+C:\Users\TLO\Documents\C# bootcamp WORK\Lab12\Lab12\bin\Debug\Lab12.pdb
+C:\Users\TLO\Documents\C# bootcamp WORK\Lab12\Lab12\obj\Debug\Lab12.csprojResolveAssemblyReference.cache
+C:\Users\TLO\Documents\C# bootcamp WORK\Lab12\Lab12\obj\Debug\Lab12.csproj.CoreCompileInputs.cache
+C:\Users\TLO\Documents\C# bootcamp WORK\Lab12\Lab12\obj\Debug\Lab12.exe
+C:\Users\TLO\Documents\C# bootcamp WORK\Lab12\Lab12\obj\Debug\Lab12.pdb
